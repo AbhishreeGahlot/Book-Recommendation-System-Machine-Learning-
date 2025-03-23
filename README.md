@@ -27,7 +27,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/book-recommendation-knn.git
+git clone https://github.com/AbhishreeGahlot/book-recommendation-knn.git
 cd book-recommendation-knn
 ```
 
